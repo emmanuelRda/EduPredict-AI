@@ -1,6 +1,6 @@
 ## 🎓 EduPredict AI: *Student Performance Analysis System*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-real-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://edupredict-ai-v1.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Model-RandomForest-green)
@@ -131,7 +131,7 @@ Special thanks to the creators of the xAPI-Edu-Data dataset for making education
 
 
 
-## ▶️Run the app: [![Click here](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-real-link.streamlit.app)
+## ▶️Run the app: [![Click here](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://edupredict-ai-v1.streamlit.app)
 
 
 
