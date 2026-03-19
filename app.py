@@ -4,10 +4,10 @@ import joblib
 import shap
 import matplotlib.pyplot as plt
 
+st.set_page_config(menu_items={'Get Help': None, 'Report a bug': None, 'About': None})
+
 # --- 1. PAGE SETUP ---
 st.set_page_config(page_title="EduPredict AI", page_icon="🎓", layout="wide")
-
-st.set_page_config(menu_items={'Get Help': None, 'Report a bug': None, 'About': None})
 
 # Soft Custom CSS for a modern look
 st.markdown("""
