@@ -1,0 +1,9 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays
+M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,15,20,10,5,Yes,Good,Under-7
+F,Jordan,Jordan,MiddleSchool,G-07,B,Math,S,Mum,80,90,50,40,Yes,Good,Under-7
+M,USA,USA,HighSchool,G-11,A,English,F,Father,50,60,40,30,No,Bad,Above-7
+F,KW,KuwaIT,lowerlevel,G-02,C,Science,S,Mum,10,5,2,1,No,Bad,Above-7
+M,Iraq,Iraq,MiddleSchool,G-08,B,Arabic,F,Father,95,100,85,90,Yes,Good,Under-7
+M,Iraq,Iraq,lowerlevel,G-02,A,Arabic,M,Mum,80,100,80,70,Yes,Good,Under-7
+M,Iraq,Iraq,MiddleSchool,G-08,B,Arabic,F,Father,95,100,85,90,Yes,Good,Above-7
+M,Iraq,Iraq,lowerlevel,G-02,B,Arabic,F,Father,95,100,85,90,No,Bad,Above-7
